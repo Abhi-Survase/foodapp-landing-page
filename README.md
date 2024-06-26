@@ -1,8 +1,15 @@
-# React + Vite
+# Food Delivery App Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This static website, built using React, serves as the vibrant landing page for our food delivery app. Discover nutritious and delicious meal options curated to support your health and wellness goals. Explore customer testimonials highlighting their positive experiences with our convenient and reliable service. Join us in embracing the joy of great food delivered right to your doorstep.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technical Details
+
+- Framework: Built using React for responsive user interface.
+- Components: Utilizes reusable React components for efficiency and maintainability.
+- Styling: Styled with CSS.
+
+### To-Do in future
+- ~~Replace generic placeholder text with dummy details.~~ (done)
+- Deploy as static website on GitHub Pages/Netlify.
+- Stylize using tailwind css.
