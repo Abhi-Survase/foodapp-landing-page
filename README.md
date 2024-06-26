@@ -9,6 +9,13 @@ This static website, built using React, serves as the vibrant landing page for o
 - Components: Utilizes reusable React components for efficiency and maintainability.
 - Styling: Styled with CSS.
 
+## Screenshots
+<img src="src\assets\screenshots\SS1.png" alt="drawing" width="650"/>
+<img src="src\assets\screenshots\SS2.png" alt="drawing" width="650"/>
+<img src="src\assets\screenshots\SS3.png" alt="drawing" width="650"/>
+<img src="src\assets\screenshots\SS4.png" alt="drawing" width="650"/>
+<img src="src\assets\screenshots\SS5.png" alt="drawing" width="650"/>
+
 ### To-Do in future
 - ~~Replace generic placeholder text with dummy details.~~ (done)
 - Deploy as static website on GitHub Pages/Netlify.
